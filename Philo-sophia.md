@@ -19,3 +19,15 @@ Kalın kafalılık üzerine de söylemek istediklerimiz var. Gözler ne güzeldi
 Düşüncelerin ve sistemlerin bir bütün olarak doğru veya yanlış görülmesine de karşıyız. Burada o kadar kelime var, elbette bazı hatalar var. Elbette yazım hataları var, mantık hataları var. Anlatılmak istenenle anlanan arasında da farklar olabilir. Fakat bu bizi yazmaktan alıkoymuyor. Bu bizim paylaşmamızı engellemiyor. Nasıl algılanırsa algılansın, okumaya da engel değildir. Zihnin berraklığını tutmak için kötü fikirlerden uzak durmak ne kadar boşunadır. Çünkü kötüyü ve iyiyi ayırt etmek o kadar basit bir eylem midir ki? Sadece bizim inançlarımıza göre iyiyi alırsak, inançlarımızın iyi olduğunu nereden bileceğiz? Zihnen esnek olmayı, yanlış olma ihtimalinin her zaman kesin olduğunu bile bile devam edebilmek, eylemlerinde hata olabileceğini kabul ederek ilerleyebilmek, bu sorumluluğu alabilmek, yaptığın bir yanlış için dizlerinin üstüne çöküp ağlayabilmek, işte bu gerçek bir büyümedir.
 
 Daha çok söylemek istediklerimiz olsa da, her şeyin bir sonu vardır. Hem insan beyni çalıştıkça bir şeyler söyleyebilir. Bıraksak, tartmasak, günlerce haftalarca konuşur, yine yorulmaz, aylarca devam ederiz. Bunun için yarım bırakmaya da esnek olunmalı.
+
+# Philo-sophia II
+
+Dinde günah addedilen olgular tarih boyunca ne kadar can yakmıştır, ne kadar üzmüştür insanları ve ne kadar bağışlanamaz olaylara sebep olmuşlardır ki, isimlerini duymak bile korkutur insanları. Bu korku gereksiz yere midir? Biz inanıyoruz ki, bir daha olmasın diyedir. O kadar acılar tekrar yaşanmasın diye bir önlem alma isteğidir. Yanlışı görenlerin yanlışı yapacak gibi duranlara çağrısıdır.
+
+Hayatın acıdan ibaret olduğunu, sadece acının hatırlanabileceğini söyleyenlere, dünyanın çukurundan sesleniyoruz, bir gece yarısı Faure dinleyip hayatta olmanın mutluluğunu elde edebiliyorsak, ne büyük zevkler vardır şu dünyada ki daha deneyimleyebileceğimiz. Mutlu olmayı, eğlenmeyi öğrenememiş olanlara üzülüyor, onları da bu oyuna davet ediyoruz. Mutlu olmak için hayatın kolay olmasına veya acının yok olmasına gerek yoktur. Devam edebilmektedir maharet.
+
+Sakat bir köpek bile yaşama dört elle sarılıp paşa gönlü ne istiyorsa onu yapabilir. Bizim eksiğimiz nedir? Hayata devam edebilmek için ne gerekir? Her şeyin mükemmel olmayacağını, hiçbir şeyin mükemmel olamayacağını bilerek devam etmek lazım. Hatalara rağmen, hatalarla beraber, hata yapacağını bile bile.
+
+Doğru yol ararken kaybolmak da pek komiktir. Nedir doğru olan? Yanlışları öğreniriz ve kaçınırız, fakat her durum için doğruyu bilmemize imkan yoktur. Öyleyse gönlümüzü takip etmeye, ileriye doğru gitmeye engel olan nedir?
+
+Ölümün ardından üzülürüz. Aklımıza neden birlikte olduğumuz vakti daha iyi değerlendirmediğimiz, neden ölüm gerçeğinin farkına varmadığımız, neden değersiz şeyler için kalpler kırdığımız gelir.
