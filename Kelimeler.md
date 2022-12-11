@@ -26,3 +26,22 @@ Ama o kadar basit değil. Daha karmaşık geliyor. Arzularımı, hayallerimi din
 ---
 
 Öyle olmalı. Yol bu. Karara saygı duymayı ve uzak durmayı öğreneceksin.
+
+# Kelimeler III
+
+Kelimeler III
+- Eğer ki benimki aşk değildiyse, eğer ki ben gerçekten sevmediysem, neden vazgeçmek bu kadar acı verdi? Obsesyonla karışık yaşanmış da olsa aşk, aşktır.
+Gösterişçi bir budalasın.
+- Sence sana seni ne kadar hak ettiğimi kanıtlamak için mi çabalıyorum? Olay basit aslında. Göremiyorsun. Bir yangın var, sönmüyor. Ben bunu söndürmek için her yolu deniyorum. Seninle olsam bile sönmeyeceğini biliyorum.
+Aşk edebiyatı yapma. Olmayacağını biliyorsun.
+- Sence ben böyle aşağılanmama meydan verecek duyguların gelişmesini ister miydim? Benim için basitti, sadece hayatta hiçbir şeyi kaçırmak istemiyordum. Geri dönüp üzülmek istemiyordum. Elimden geleni yapmak istedim.
+Yapamadın.
+- Yapamadım. Yapabileceğimi düşündüm fakat olmadı. Çok yanlış hareketlerde bulundum doğru sanıp. Uzak durup çıkar yol aradım. Konuştum. Yazdım. Çizdim. Senin hayatında incecik bir izdim. Şarkılar yazmayı bile düşündüm. Başkalarını yerine koymayı denedim. Olmuyor. Çaresizliğimi gördün ve tek yaptığın canımı yakmak oldu. En hassas noktamdan bir iğne batırdın, derimin içine kadar, kemiğime kadar. Acısı öyle güçlüydü ki kendimi kaybettim. Güldün. Komik geldi sana.
+Kafandan senaryo yazıyorsun.
+- Ben ne yaşadığımı biliyorum!
+Peki ben ne yapacaktım?
+- Sonradan pişman olma hakkına sahip değilsin, dediğin onca ağır laftan sonra. Ben ne kadar acı çeksem de sana zarar vermemek için kendimi ateşlere attım. Herkese ben kötüyüm dedim. Ben böyle bir hata yaptım diye anlattım. Acı çekmek istedim. Yaptığım şeyi suç sandım, cezasını çekip kurtulmak istedim fakat olmadı. Çünkü suç yoktu. Sadece ne yapacağını şaşırmış bir adam orada öylece yok olmayı bekliyordu.
+Dram kraliçesi.
+- Bir anlamı yok. Ben yaşadığımı kendim bilirim. Yolunu kaybetmiş bir adamdım. Şimdi bir yolum var. Acı hissettiğim noktaları ilham kaynağı olarak kullanıyorum. Acı geçmezse daha iyi, daha çok yazarım. Daha çok çizerim.
+Beni alakadar etmiyor.
+- Evet, sorun da bu. Çözmek istediğim problem bu. Benim içimde senden bu kadar bağımsız fakat sana bu kadar bağlı bir fırtına hangi hakla kopuyor? Olan her şeyi kabullendim, hatalarımı kabullendim, uzak dur dedim. Yine bir gün dayanamadım seni de işin içine kattım. Ve yine aynı fırtına daha güçlü esmeye başladı. Yine de eskisine göre gücünü kaybediyor. Görebiliyorum. Bir gün dinecek. Buna eminim. Yine de beni bu kadar yıkan bir fırtına nasıl başladı, hala anlam veremiyorum. Anlayamıyorum.
