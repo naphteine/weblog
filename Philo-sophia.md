@@ -31,3 +31,15 @@ Sakat bir köpek bile yaşama dört elle sarılıp paşa gönlü ne istiyorsa on
 Doğru yol ararken kaybolmak da pek komiktir. Nedir doğru olan? Yanlışları öğreniriz ve kaçınırız, fakat her durum için doğruyu bilmemize imkan yoktur. Öyleyse gönlümüzü takip etmeye, ileriye doğru gitmeye engel olan nedir?
 
 Ölümün ardından üzülürüz. Aklımıza neden birlikte olduğumuz vakti daha iyi değerlendirmediğimiz, neden ölüm gerçeğinin farkına varmadığımız, neden değersiz şeyler için kalpler kırdığımız gelir.
+
+# Philo-sophia III
+
+Tao Te Ching’in hırs, rekabet ve çekişmeye yönelik eleştirilerine yan çıkıyoruz. Aşırılıklardan arınmalı, kendi yolumuzda ilerlemeliyiz. Ermiş kişi, şartları değiştirmek yerine doğa gibi akışkan olur, yeni şartlara uyum sağlar, akar.
+
+Bu akışkanlığın en gerektiği alanlardan birisi insan ilişkileri, bunun içinde de romantik ilişkilerdir. Sevmek sevilmek için yeterli değildir. Sevdiğimiz için sevgi görmeyi beklemek toyca bir yaklaşım olur. Kişi kendi hayatında egemendir. Bu egemenlikle birlikte, zamana bağlı bir fonksiyon misali belirli bir anda kimi seveceğine karar verebilir. Bu fonksiyonun dengesizliğinden dolayı o kişiye olan sevgimizin etkilenmesi de bizim elimizdedir. Koşulsuz sevgi bekleyenlere imrenerek bakıyoruz. Ne yazık ki bu saflığı kaybettik.
+
+İdeallere sahip olmayı kutsal saymaktayız fakat ideallere ulaşmaya giden yolun mükemmellikten uzak, sürekli hatalar yapılarak geçilmesi gerektiğini idrak etmenin gereği üzerinde durmaktayız.
+
+Yazım, akan suya şekil vermek gibidir. Düşünceler her şekilde sonsuz tünellerden geçer ve ortaya çıkar. Sadece yazarak, düşünceleri ardı ardına kaydederek ve sonra dönüp uyumluluğunu, düşünce zincirinde bir zayıflık var mı diye kontrol ederek doğruyu bulmaya yaklaşabiliriz. Kesin doğruyu bulamasak bile kendimizce bir doğrular sistemi oluşturabiliriz. Bir yapı kurmak istiyoruz. Bu yapı en başından güçlü olmayabilir, belki sevilmeyebilir, hor bile görülebilir. Fakat bu yapının bize ait olması yeterlidir. Günlerce, haftalarca, aylarca şekillendirilecek, sürekli yenilenecektir.
+
+Felsefe bilgi sevgisidir. Düşünürüz. Bunca çabayı tek bir kelime haklı, yerinde bir çaba olarak gösterir: sevgi.
