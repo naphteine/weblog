@@ -51,3 +51,5 @@ Beni alakadar etmiyor.
 Şu ışıkta titreyen parmaklarımın duvara yansıyan gölgesine acı. Dindir içimde dinmek bilmeyen yağmurları. Daha neler yaşayacaksın, kim bilir. Gelmemek senin seçimindi, şimdi istememek de benim. İki fiil birbiriyle bu kadar mı uyumlu olur? Yaz akşamlarında titreyen bir ışık gibi.
 
 Bazen yaşam bana büyük bir zevkle gelir. İyi ki doğdum derim. Nefes alıp vermelerimi sayar, her seferinde gözlerim dolar. O kadar narindir ki hayat. O kadar pisliğe rağmen o kadar saf ve temizdir ki arzular. Herkesin aradığı ufak bir kurtuluştur. Yazın bir öğleden sonra, saat 4, oturmuşsun çimenlere ve elinde kitap, büyük gök adını yankılar, bulutlar ışıltısıyla boğar, onca çocuk ve sevgililer gelip geçer, tek aradığın içindeki kanamayı durduracak bir merhemdir. Bir şeyler ters gitmiştir, ama ne var ki önemi kalmamıştır.
+
+Gözleri alev almak üzere gibiydi. Etrafındaki hava çıtırdıyor, yanmaya hazır bekliyordu.
