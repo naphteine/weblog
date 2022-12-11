@@ -45,3 +45,9 @@ Dram kraliçesi.
 - Bir anlamı yok. Ben yaşadığımı kendim bilirim. Yolunu kaybetmiş bir adamdım. Şimdi bir yolum var. Acı hissettiğim noktaları ilham kaynağı olarak kullanıyorum. Acı geçmezse daha iyi, daha çok yazarım. Daha çok çizerim.
 Beni alakadar etmiyor.
 - Evet, sorun da bu. Çözmek istediğim problem bu. Benim içimde senden bu kadar bağımsız fakat sana bu kadar bağlı bir fırtına hangi hakla kopuyor? Olan her şeyi kabullendim, hatalarımı kabullendim, uzak dur dedim. Yine bir gün dayanamadım seni de işin içine kattım. Ve yine aynı fırtına daha güçlü esmeye başladı. Yine de eskisine göre gücünü kaybediyor. Görebiliyorum. Bir gün dinecek. Buna eminim. Yine de beni bu kadar yıkan bir fırtına nasıl başladı, hala anlam veremiyorum. Anlayamıyorum.
+
+# Kelimeler IV
+
+Şu ışıkta titreyen parmaklarımın duvara yansıyan gölgesine acı. Dindir içimde dinmek bilmeyen yağmurları. Daha neler yaşayacaksın, kim bilir. Gelmemek senin seçimindi, şimdi istememek de benim. İki fiil birbiriyle bu kadar mı uyumlu olur? Yaz akşamlarında titreyen bir ışık gibi.
+
+Bazen yaşam bana büyük bir zevkle gelir. İyi ki doğdum derim. Nefes alıp vermelerimi sayar, her seferinde gözlerim dolar. O kadar narindir ki hayat. O kadar pisliğe rağmen o kadar saf ve temizdir ki arzular. Herkesin aradığı ufak bir kurtuluştur. Yazın bir öğleden sonra, saat 4, oturmuşsun çimenlere ve elinde kitap, büyük gök adını yankılar, bulutlar ışıltısıyla boğar, onca çocuk ve sevgililer gelip geçer, tek aradığın içindeki kanamayı durduracak bir merhemdir. Bir şeyler ters gitmiştir, ama ne var ki önemi kalmamıştır.
