@@ -1,17 +1,33 @@
-baseURL = "https://gguilt.com"
+baseURL = "https://blog.gguilt.com"
 languageCode = "en-us"
 title = "gguilt"
-theme = "smol"
+theme = "kat"
 FootnoteReturnLinkContents = "↩"
 
 [permalinks]
 	posts = "/:year/:month/:title/"
-	
+
+# Languages
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+	subtitle = "Meditations"
+    weight = 1
+  [languages.de]
+	subtitle = "Mein blog"
+    weight = 2
+  [languages.tr]
+	subtitle = "Kendime düşünceler"
+    weight = 3
+
 # Parameters
 [params]
-	subtitle = "Memento mori, memento vivere."
+	subtitle = "Meditations"
 	dateFmt = "2006-01-02 15:04 Monday"
 	copyStart = "2019"
+
+	[params.navigation]
+    	help = 'Help'
 
 # Header
 [menu]
