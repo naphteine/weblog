@@ -52,11 +52,3 @@ reboot
 4. Login as user
 
 ssh userName@ip -o "IdentitiesOnly=yes" -i keyFile
-
----
-
-How to manage the server;
-
-1. Synchronizing directories;
-
-I prefer rsync.
