@@ -1,4 +1,4 @@
-# Blog
+# Weblog
 
 Personal blog to share my own ideas.
 
