@@ -5,13 +5,13 @@ draft: true
 tags: ["emacs"]
 ---
 
-# DRAFT
+## Emacs most used commands;
 
-Emacs most used commands;
-
-Change window: C-x o
-Remove other pane: C-x 1
-Paste: C-y
-Side-by-side: C-x 2
-Save: C-x s || C-x C-s (for forced)
-Load file to Sly: C-c C-k
+* Change window: C-x o
+* Remove other pane: C-x 1
+* Paste: C-y
+* Side-by-side: C-x 2
+* Save: C-x s || C-x C-s (for forced)
+* Load file to Sly: C-c C-k
+* Load file: C-x C-f
+* Run Sly: M-x sly
