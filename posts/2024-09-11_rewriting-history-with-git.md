@@ -7,24 +7,26 @@ tags: ["git", "github"]
 
 i have lots of repos laying around in my github, with many commits from the time before i used github. because of this, most of the authors wasn't showing up as 'me' and this made me feel unorganised. luckly git is a very good version control software with ability to even change past data. here are some commands that helped me.
 
-0. Setting up Git
+## 0. Setting up Git
 
-## Setup git repo remote origin to SSH (so it will use the key)
-git remote set-url origin git@github.com:<Username>/<Project>.git
+### Setup git repo remote origin to SSH (so it will use the key)
 
-## Setup user.name and user.email
-```git config --global user.name "naphteine"```
-```git config --global user.email "mymail@github.com"```
+`git remote set-url origin git@github.com:<Username><Project>.git`
 
-1. Change all past authors to current system author (while keeping the date intact)
+### Setup user.name and user.email
 
-```git -c rebase.instructionFormat='%s%nexec GIT_COMMITTER_DATE="%cD" GIT_AUTHOR_DATE="%aD" git commit --amend --no-edit --reset-author' rebase -f --root```
+`git config --global user.name "naphteine"`
 
-2. Remove a file that holds secrets from all history
+`git config --global user.email "mymail@github.com"`
 
-```git filter-repo --invert-paths --path secret.env```
-```git push origin --force --all```
+## 1. Change all past authors to current system author (while keeping the date intact)
 
+`git -c rebase.instructionFormat='%s%nexec GIT_COMMITTER_DATE="%cD" GIT_AUTHOR_DATE="%aD" git commit --amend --no-edit --reset-author' rebase -f --root`
+
+## 2. Remove a file that holds secrets from all history
+
+`git filter-repo --invert-paths --path secret.env`
+`git push origin --force --all`
 
 # Weeping Angel Problem
 
