@@ -13,7 +13,7 @@ export default function Home() {
         <Link className="underline" href="https://gokay.works">
           Gökay Gültekin
         </Link>{" "}
-        &copy; 2019-2024{" | "}
+        &copy; 2019-2025{" | "}
         <Link className="underline" href="https://github.com/naphteine/weblog">
           Source code
         </Link>
